@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Exile&family=Pixelify+Sans:wght@400..700&display=swap');
+
+
+
+h1{
+    color: red
+    font-size 90px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-weight: 100;
+}
+h3{
+    color: red
+    font-size 90px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-weight: 100;
+} 
+div{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 50px;
+}
+
+p{
+    background-color: aquamarine;
+}
